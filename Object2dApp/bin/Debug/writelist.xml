@@ -1,0 +1,7 @@
+<Objects2d>
+  <Object2d edge0="3" edge1="4" edge2="5" />
+  <Object2d edge0="1" edge1="2" edge2="1" edge3="2" />
+  <Object2d edge0="1" edge1="1" edge2="1" edge3="1" />
+  <Object2d edge0="3" edge1="4" edge2="6" />
+  <Object2d edge0="50" edge1="20" />
+</Objects2d>

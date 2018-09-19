@@ -1,0 +1,7 @@
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\bin\Debug\Object2dApp.exe.config
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\bin\Debug\Object2dApp.exe
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\bin\Debug\Object2dApp.pdb
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\obj\Debug\Object2dApp.csprojResolveAssemblyReference.cache
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\obj\Debug\Object2dApp.csproj.CoreCompileInputs.cache
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\obj\Debug\Object2dApp.exe
+C:\Users\Prazakovi\Desktop\KURZ OOP\TIETO\Object2dApp\Object2dApp\obj\Debug\Object2dApp.pdb
